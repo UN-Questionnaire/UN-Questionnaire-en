@@ -1,0 +1,7 @@
+#### Privacy Note
+
+This project did not receive any financial or institutaional incentives. The anonymized results are only stored for validation and normation of the questionnaire itself (item properties, like answer distributions) and are stored on the University server of Oldenburg, Germany, under state-of-the-art security and privacy standards. More information regarding privacy and data safety can be found in the GDPR section of the formR publication (Arslan, Walther & Tata, 2020)[1]
+
+
+
+[1] Arslan, R.C., Walther, M.P. & Tata, C.S. formr: A study framework allowing for automated feedback generation and complex longitudinal experience-sampling studies using R. Behav Res 52, 376–387 (2020). https://doi.org/10.3758/s13428-019-01236-y
