@@ -76,7 +76,7 @@ To use the questionnaire with multiple patients, practitioners have to, for now,
 #### Session key and privacy
 The generated session key / url is the only way to access a single run und must be stored to access a run again. A single session cookie is temporarily stored during a session on one device/browser. 
 No personal-sensible information are assessed and no data is/will be shared with third parties. Data is only used to validate and normate the questionnaire. 
-[[2]](/Privacy-Note)
+[[2]](./privacy-note)
   	
 
 
