@@ -42,7 +42,7 @@ The questionnaire is in experimental status and is not yet validated. Though its
 ## Previewing the Questionnaire
 A preview version is available to prevent low-quality data in the real assessments and to allow clicking-through the instrument. The questions are not mandatory, not randomized and prefilled for feedback displays.
 
- [UN-Questionnaire - New PREVIEW Run](https://un-questionnaire-en-preview.formr.org) : https://un-questionnaire-en-preview.formr.org
+ [New PREVIEW Run](https://un-questionnaire-en-preview.formr.org) : https://un-questionnaire-en-preview.formr.org
 
 
 ## Testing
@@ -53,7 +53,7 @@ A preview version is available to prevent low-quality data in the real assessmen
 
 
 
-[UN-Questionnaire - Start New Assessment](https://un-questionnaire-en.formr.org) : https://un-questionnaire-en.formr.org
+[Start New Assessment](https://un-questionnaire-en.formr.org) : https://un-questionnaire-en.formr.org
 
 
 
