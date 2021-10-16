@@ -121,7 +121,7 @@ The UN-Q is inspired by an [in-depth comparison of about 60 clinical questionnai
  (f.i. egg consumption for tryptophan intake)  
 ## Dependencies
 
-Created with formR. FormR is a software framework based on R for the creation of psychological questionnaires. It was developed by Ruben Arslan at the University Oldenburg and is under active development, therefor it can sometimes not be available during software changes. It is an incredibly conscientious and dedicated project that made this project even possible. 
+Created with formR. FormR is a software framework based on R for the creation of psychological questionnaires. It was developed by Ruben Arslan at the University Goettingen and is under active development, therefor it can sometimes not be available during software changes. It is an incredibly conscientious and dedicated project that made this project even possible. 
 ## Feedback and Bugs
 
 Please feel free to report any issues or bugs either via github or get in contact directly (un-questionnaire@outlook.com) for any kind of feedback.
